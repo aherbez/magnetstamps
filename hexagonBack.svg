@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="100mm"
+   viewBox="0 0 318.89764 354.33071"
+   id="svg4849"
+   version="1.1"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="allBacks.svg">
+    <path
+       id="hexagon"
+       style="opacity:1;fill:none;stroke:#343fe5;stroke-width:1.22159;stroke-opacity:1;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1"
+       inkscape:transform-center-y="-2.2730683e-06"
+       d="m 103.31691,227.82996 28.66602,47.84623 a 10.392302,10.392302 89.073007 0 1 0.16813,10.39095 L 105.048,334.81573 a 10.39231,10.39231 149.073 0 1 -8.914755,5.34108 l -55.76905,0.90239 a 10.392301,10.392301 29.072999 0 1 -9.082888,-5.04987 L 2.6153034,288.1631 A 10.392306,10.392306 89.073005 0 1 2.4471724,277.77215 L 29.550224,229.02354 a 10.392304,10.392304 149.073 0 1 8.914757,-5.34108 l 55.769044,-0.90237 a 10.392307,10.392307 29.073004 0 1 9.082885,5.04987 z"
+       inkscape:path-effect="#path-effect190"
+       inkscape:original-d="m 100.23324,222.68302 34.83336,58.14011 -32.93414,59.23661 -67.76748,1.09653 L -0.46836917,283.01616 32.465766,223.77953 Z"
+       inkscape:label="#hexagon" />
+</svg>
